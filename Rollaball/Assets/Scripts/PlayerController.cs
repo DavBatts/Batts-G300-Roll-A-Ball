@@ -58,7 +58,7 @@ public class PlayerController : MonoBehaviour {
 		void OnJump(InputValue value)
 		{
 			Debug.Log("Debug");
-			rb.AddForce(Vector3.up * 6f, ForceMode.Impulse);
+			rb.AddForce(Vector3.up * 5f, ForceMode.Impulse);
 		}
 		
 
