@@ -55,6 +55,13 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 
+		void OnJump(InputValue value)
+		{
+			Debug.Log("Debug");
+			rb.AddForce(Vector3.up * 6f, ForceMode.Impulse);
+		}
+		
+
         void OnMove(InputValue value)
         {
         	Vector2 v = value.Get<Vector2>();
