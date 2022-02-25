@@ -7,7 +7,7 @@ using TMPro;
 public class Timer : MonoBehaviour
 {
     float currentTime;
-    public float startingTime = 20f;
+    public float startingTime = 30f;
     public GameObject LoseTextObject;
 
     [SerializeField] Text countdownText;
