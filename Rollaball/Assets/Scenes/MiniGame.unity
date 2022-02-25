@@ -3165,7 +3165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e1f3854d8478e34d9dc2b0bc8101011, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingTime: 45
+  startingTime: 40
   LoseTextObject: {fileID: 1697449502}
   countdownText: {fileID: 2019720086}
 --- !u!114 &2019720086
