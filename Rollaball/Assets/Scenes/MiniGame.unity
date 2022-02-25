@@ -1795,7 +1795,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bfa09ceb111ba1c478a9616b1c49d1f4, type: 2}
+  - {fileID: 2100000, guid: 17bc2c9498a628e47868223aec323511, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3165,7 +3165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e1f3854d8478e34d9dc2b0bc8101011, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingTime: 30
+  startingTime: 45
   LoseTextObject: {fileID: 1697449502}
   countdownText: {fileID: 2019720086}
 --- !u!114 &2019720086
